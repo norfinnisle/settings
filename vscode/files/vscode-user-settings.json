@@ -2,11 +2,6 @@
     "files.exclude": {
         "**/node_modules": true
     },
-    // "files.trimFinalNewlines": true,
-    // "files.trimTrailingWhitespace": true,
-    // "[markdown]": {
-    //     "files.trimTrailingWhitespace": false
-    // },
     "editor.cursorStyle": "block",
     "editor.linkedEditing": true,
     "editor.minimap.enabled": false,
@@ -24,5 +19,5 @@
         "editor.lineHighlightBorder": "#00aa3944",
         "statusBar.background": "#0039aacc",
         "tab.activeBackground": "#0039aacc"
-    },
+    }
 }
